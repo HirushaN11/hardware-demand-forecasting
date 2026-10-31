@@ -1,0 +1,6 @@
+Model,Stockout_Rate (%),Mean_Working_Capital (LKR)
+SMA (4-Week),0.1,"107,716.07"
+Croston,0.05,"102,574.10"
+SBA,0.06,"97,706.68"
+Random Forest,0.03,"112,963.52"
+LightGBM,0.33,"106,083.63"

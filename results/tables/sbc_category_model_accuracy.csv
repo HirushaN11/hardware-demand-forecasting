@@ -1,0 +1,16 @@
+SBC_Category,Model,WAPE (%),RMSE
+Intermittent,SMA (4-Week),113.56,2.025
+Lumpy,SMA (4-Week),144.44,17.959
+Smooth,SMA (4-Week),23.54,20.73
+Intermittent,Croston,112.59,1.847
+Lumpy,Croston,157.31,16.335
+Smooth,Croston,22.45,19.705
+Intermittent,SBA,110.06,1.834
+Lumpy,SBA,152.19,16.226
+Smooth,SBA,22.81,19.601
+Intermittent,Random Forest,140.66,2.453
+Lumpy,Random Forest,156.63,16.647
+Smooth,Random Forest,24.98,21.36
+Intermittent,LightGBM,113.31,1.915
+Lumpy,LightGBM,116.97,16.377
+Smooth,LightGBM,23.98,21.306

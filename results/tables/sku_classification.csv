@@ -1,0 +1,31 @@
+sku_id,adi,cv2,category_sbc,zero_percentage,total_units_sold,mean_non_zero_qty,product_name,category,unit_cost_lkr,selling_price_lkr
+HW-ELEC-002,2.59,0.188,Intermittent,61.9,78,1.95,Clipsal / Schneider 40A 30mA 2-Pole RCCB Trip Switch,Electrical,5800.0,7200.0
+HW-ELEC-003,1.94,0.345,Intermittent,48.6,132,2.44,Orange Electric 32A Double Pole Main Switch,Electrical,2400.0,3100.0
+HW-ELEC-004,2.1,0.361,Intermittent,52.4,189,3.78,ACL 13A Switched Socket Outlet Single,Electrical,650.0,850.0
+HW-ELEC-005,2.68,0.26,Intermittent,62.9,74,1.9,Kelani 2.5mm Single Core Earth Wire 100m Roll,Electrical,9800.0,11500.0
+HW-ELEC-007,9.18,0.148,Intermittent,88.6,26,2.17,Industrial 3-Phase 63A Changeover Switch Box,Electrical,16000.0,20500.0
+HW-FAST-002,1.84,0.301,Intermittent,45.7,132,2.32,Sober Brass Padlock 50mm with 3 Keys,Fasteners,1450.0,1950.0
+HW-FAST-003,1.63,0.277,Intermittent,39.0,216,3.38,Stainless Steel Butt Hinges 4 inch (Pair),Fasteners,450.0,650.0
+HW-FAST-004,3.03,0.145,Intermittent,69.5,127,3.97,Aluminium Architectural Drawer Pull Handle 6 inch,Fasteners,320.0,480.0
+HW-MAS-003,2.04,0.261,Intermittent,52.4,94,1.88,Diamond Heavy Duty Pointing Trowel 7 inch,Masonry,650.0,900.0
+HW-PLUM-002,2.13,0.231,Intermittent,54.3,120,2.5,S-lon Brass Bib Tap 1/2 inch,Plumbing,1650.0,2150.0
+HW-PLUM-003,3.0,0.098,Intermittent,67.6,60,1.76,Anton PVC Ball Valve 2 inch Threaded,Plumbing,1850.0,2450.0
+HW-PLUM-004,3.06,0.24,Intermittent,66.7,53,1.51,S-lon Foot Valve 1 inch Heavy Duty,Plumbing,1200.0,1600.0
+HW-PLUM-007,5.59,0.259,Intermittent,82.9,42,2.33,Brass Sluice Gate Valve 3 inch Flanged,Plumbing,12500.0,15800.0
+HW-TOOL-002,1.56,0.326,Intermittent,38.1,274,4.22,Eclipse Bi-Metal Hacksaw Blades 24 TPI,Tools,190.0,280.0
+HW-TOOL-003,5.19,0.0,Intermittent,83.8,17,1.0,Bosch Bi-Metal Hole Saw Set 6-Piece,Tools,7200.0,9200.0
+HW-TOOL-004,1.61,0.301,Intermittent,38.1,178,2.74,Kendo 9-inch Paint Roller Frame and Sleeve,Tools,850.0,1150.0
+HW-TOOL-005,1.51,0.274,Intermittent,35.2,396,5.82,Abra 4-inch Thin Metal Cutting Disc,Tools,120.0,180.0
+HW-TOOL-006,4.95,0.196,Intermittent,81.0,103,5.15,Anchor Masking Tape 2 inch (72 Rolls Master Carton),Tools,14500.0,18000.0
+HW-ELEC-006,5.16,1.557,Lumpy,81.0,55,2.75,Kelani 1.5mm 3-Core Flexible Cable 100m Roll,Electrical,18500.0,22000.0
+HW-FAST-005,2.64,1.479,Lumpy,61.9,780,19.5,Self-Drilling GI Roofing Screws 2.5 inch (Box 100 pcs),Fasteners,1100.0,1450.0
+HW-FAST-006,2.44,1.828,Lumpy,60.0,521,12.4,Drywall Screws Black Phosphate 1.5 inch (Box 500 pcs),Fasteners,1350.0,1750.0
+HW-MAS-004,2.48,1.117,Lumpy,59.0,866,20.14,Lankatile Wall Putty White 20kg Bag,Masonry,1650.0,2100.0
+HW-PLUM-005,1.9,1.155,Lumpy,49.5,1994,37.62,Anton PVC Conduit Pipe 20mm x 4m,Plumbing,310.0,420.0
+HW-PLUM-006,3.19,1.388,Lumpy,68.6,317,9.61,S-lon Type 600 Drainage Pipe 4 inch x 4m,Plumbing,3200.0,4100.0
+HW-ELEC-001,1.0,0.09,Smooth,0.0,2728,25.98,Orange Electric 9W Day Light B22 LED Bulb,Electrical,420.0,580.0
+HW-FAST-001,1.0,0.105,Smooth,0.0,3053,29.08,Standard Wire Nails 2 inch (1kg packet),Fasteners,380.0,480.0
+HW-MAS-001,1.0,0.076,Smooth,0.0,13606,129.58,INSEE Sanstha Portland Composite Cement 50kg,Masonry,2150.0,2400.0
+HW-MAS-002,1.0,0.085,Smooth,0.0,9927,94.54,Tokyo Super Ordinary Portland Cement 50kg,Masonry,2100.0,2350.0
+HW-PLUM-001,1.0,0.084,Smooth,1.0,2194,21.1,S-lon Solvent Cement Adhesive 100ml Tin,Plumbing,280.0,380.0
+HW-TOOL-001,1.0,0.075,Smooth,0.0,5270,50.19,Elephant Sandpaper Grit 120 (Sheets),Tools,65.0,100.0
