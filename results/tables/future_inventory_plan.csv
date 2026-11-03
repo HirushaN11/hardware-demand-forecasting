@@ -1,0 +1,31 @@
+sku_id,product_name,category,unit_cost_lkr,selling_price_lkr,current_stock,safety_stock,reorder_point,order_up_to,forecast_w1,forecast_w2,forecast_w3,forecast_w4,forecast_4w_total,reorder_status,suggested_order_units,capital_outlay_lkr
+HW-ELEC-001,Orange Electric 9W Day Light B22 LED Bulb,Electrical,420.0,580.0,62,18,64,150,23.1,22.1,21.4,18.5,85.1,ORDER NOW,88,36960.0
+HW-ELEC-002,Clipsal / Schneider 40A 30mA 2-Pole RCCB Trip Switch,Electrical,5800.0,7200.0,3,3,5,9,1.1,0.8,1.1,0.5,3.5,ORDER NOW,6,34800.0
+HW-ELEC-003,Orange Electric 32A Double Pole Main Switch,Electrical,2400.0,3100.0,11,6,8,11,0.8,0.9,0.6,0.6,2.9,HEALTHY,0,0.0
+HW-ELEC-004,ACL 13A Switched Socket Outlet Single,Electrical,650.0,850.0,4,4,9,19,2.4,2.5,2.2,2.6,9.7,ORDER NOW,15,9750.0
+HW-ELEC-005,Kelani 2.5mm Single Core Earth Wire 100m Roll,Electrical,9800.0,11500.0,3,3,4,6,0.4,0.5,0.6,0.4,1.9,ORDER NOW,3,29400.0
+HW-ELEC-006,Kelani 1.5mm 3-Core Flexible Cable 100m Roll,Electrical,18500.0,22000.0,10,6,7,8,0.2,0.2,0.2,0.2,0.8,HEALTHY,0,0.0
+HW-ELEC-007,Industrial 3-Phase 63A Changeover Switch Box,Electrical,16000.0,20500.0,1,3,3,3,0.0,0.0,0.0,0.0,0.0,ORDER NOW,2,32000.0
+HW-FAST-001,Standard Wire Nails 2 inch (1kg packet),Fasteners,380.0,480.0,69,18,71,175,26.3,25.9,25.5,25.5,103.2,ORDER NOW,106,40280.0
+HW-FAST-002,Sober Brass Padlock 50mm with 3 Keys,Fasteners,1450.0,1950.0,9,4,6,10,1.1,0.8,1.1,1.0,4.0,HEALTHY,0,0.0
+HW-FAST-003,Stainless Steel Butt Hinges 4 inch (Pair),Fasteners,450.0,650.0,5,5,8,14,1.5,1.5,1.4,1.0,5.4,ORDER NOW,9,4050.0
+HW-FAST-004,Aluminium Architectural Drawer Pull Handle 6 inch,Fasteners,320.0,480.0,5,5,7,11,0.8,0.6,1.0,0.8,3.2,ORDER NOW,6,1920.0
+HW-FAST-005,Self-Drilling GI Roofing Screws 2.5 inch (Box 100 pcs),Fasteners,1100.0,1450.0,31,31,44,67,4.8,7.5,2.5,7.9,22.7,ORDER NOW,36,39600.0
+HW-FAST-006,Drywall Screws Black Phosphate 1.5 inch (Box 500 pcs),Fasteners,1350.0,1750.0,8,8,34,72,14.4,11.4,5.2,6.6,37.6,ORDER NOW,64,86400.0
+HW-MAS-001,INSEE Sanstha Portland Composite Cement 50kg,Masonry,2150.0,2400.0,70,70,324,840,122.7,131.2,131.9,129.4,515.2,ORDER NOW,770,1655500.0
+HW-MAS-002,Tokyo Super Ordinary Portland Cement 50kg,Masonry,2100.0,2350.0,71,71,274,689,107.0,95.4,106.0,106.6,415.0,ORDER NOW,618,1297800.0
+HW-MAS-003,Diamond Heavy Duty Pointing Trowel 7 inch,Masonry,650.0,900.0,5,3,7,15,1.9,2.0,1.8,2.1,7.8,ORDER NOW,10,6500.0
+HW-MAS-004,Lankatile Wall Putty White 20kg Bag,Masonry,1650.0,2100.0,48,48,54,64,0.7,5.0,0.7,3.2,9.6,ORDER NOW,16,26400.0
+HW-PLUM-001,S-lon Solvent Cement Adhesive 100ml Tin,Plumbing,280.0,380.0,13,13,57,145,22.0,22.0,22.0,21.7,87.7,ORDER NOW,132,36960.0
+HW-PLUM-002,S-lon Brass Bib Tap 1/2 inch,Plumbing,1650.0,2150.0,4,4,6,10,0.6,0.7,0.9,0.9,3.1,ORDER NOW,6,9900.0
+HW-PLUM-003,Anton PVC Ball Valve 2 inch Threaded,Plumbing,1850.0,2450.0,3,3,5,9,0.7,0.9,0.8,0.8,3.2,ORDER NOW,6,11100.0
+HW-PLUM-004,S-lon Foot Valve 1 inch Heavy Duty,Plumbing,1200.0,1600.0,8,2,5,10,0.9,1.2,1.4,1.2,4.7,HEALTHY,0,0.0
+HW-PLUM-005,Anton PVC Conduit Pipe 20mm x 4m,Plumbing,310.0,420.0,74,74,79,99,1.8,3.0,3.4,11.4,19.6,ORDER NOW,25,7750.0
+HW-PLUM-006,S-lon Type 600 Drainage Pipe 4 inch x 4m,Plumbing,3200.0,4100.0,25,20,22,27,0.5,0.8,1.3,1.6,4.2,HEALTHY,0,0.0
+HW-PLUM-007,Brass Sluice Gate Valve 3 inch Flanged,Plumbing,12500.0,15800.0,6,2,3,4,0.1,0.1,0.1,0.1,0.4,HEALTHY,0,0.0
+HW-TOOL-001,Elephant Sandpaper Grit 120 (Sheets),Tools,65.0,100.0,21,21,124,329,51.0,51.2,51.2,51.2,204.6,ORDER NOW,308,20020.0
+HW-TOOL-002,Eclipse Bi-Metal Hacksaw Blades 24 TPI,Tools,190.0,280.0,6,6,10,19,2.0,2.0,2.2,2.0,8.2,ORDER NOW,13,2470.0
+HW-TOOL-003,Bosch Bi-Metal Hole Saw Set 6-Piece,Tools,7200.0,9200.0,0,1,2,3,0.0,0.1,0.0,0.0,0.1,ORDER NOW,3,21600.0
+HW-TOOL-004,Kendo 9-inch Paint Roller Frame and Sleeve,Tools,850.0,1150.0,5,5,7,12,1.1,0.7,1.4,1.6,4.8,ORDER NOW,7,5950.0
+HW-TOOL-005,Abra 4-inch Thin Metal Cutting Disc,Tools,120.0,180.0,16,11,18,30,3.0,3.3,3.5,1.8,11.6,ORDER NOW,14,1680.0
+HW-TOOL-006,Anchor Masking Tape 2 inch (72 Rolls Master Carton),Tools,14500.0,18000.0,9,5,6,8,0.4,0.3,0.3,0.3,1.3,HEALTHY,0,0.0
